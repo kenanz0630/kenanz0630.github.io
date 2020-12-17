@@ -1,16 +1,13 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "Kenan"
+description:        "PhD candidate"
 
 url:                "https://kenanz0630.github.io"
 author:             "kenanz0630"
-email:              "jhondoe@abc.com"
+email:              "zhangkenan0630@gmail.com"
 gravatar_hash:      "de5c7e08016aeaa80d78eacbc33d60cc"
-twitter:            "jhondoe"
 email:              "jhondoe@abc.com"
-github:             "jhondoe"
-pinterest:          "jhondoe"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
+github:             "kenanz0630"
+linkedin:           "kenan-zhang-5293972b"
 
 disqus_shortname:   "thinker3197"
 
@@ -25,10 +22,12 @@ permalink:          :year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
-    href:           "about"
-  - name:           "Download"
-    href:           "releases"
+  - name:           "RESEARCH"
+    href:           "research"
+  - name:           "CV"
+    href:           "cv"
+  - name:           "BLOGS"
+    href:           "blog"
 
 sass:
   style:            :compressed
